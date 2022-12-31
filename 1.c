@@ -3,4 +3,5 @@ main()
 {
 	printf("hiiiiiiiiiiiii");
 	printf(" hi rajashri");
+printf("\n" );
  } 
